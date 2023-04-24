@@ -1,2 +1,1 @@
-# orm-toolkit-docs
-Manuals
+# Manuals
